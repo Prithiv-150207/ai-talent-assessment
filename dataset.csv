@@ -1,0 +1,23 @@
+answer,label
+I solved the problem step by step,analytical
+I analyzed the situation logically,analytical
+I calculated the result carefully,analytical
+I created a new product idea,creative
+I designed an innovative solution,creative
+I thought of a unique concept,creative
+I organized tasks for the team,leadership
+I helped coordinate the team work,leadership
+I guided my teammates to finish the task,leadership
+I found a business opportunity,entrepreneurship
+I discovered a new market idea,entrepreneurship
+I planned a small startup idea,entrepreneurship
+answer,label
+"I analyze problems step by step",analytical
+"I enjoy working with numbers and logic",analytical
+"I create innovative ideas",creative
+"I design new solutions",creative
+"I lead teams and motivate people",leadership
+"I manage conflicts in teams",leadership
+"I want to start a startup",entrepreneurship
+"I identify market opportunities",entrepreneurship
+print(data.columns)
