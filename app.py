@@ -35,7 +35,7 @@ templates = [
 
 def generate_question():
     row = data.sample(1).iloc[0]
-    text = row["text"]
+    text = row["question"]
     skill = row["skill"]
 
     question = random.choice(templates).format(text)
