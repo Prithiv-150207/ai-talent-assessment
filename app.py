@@ -4,7 +4,7 @@ import pandas as pd
 import random
 
 # ---------------- LOAD DATASET ----------------
-data = pd.read_csv("questions_dataset.csv")
+data = pd.read_csv("dataset.csv")
 
 # ---------------- PDF IMPORTS ----------------
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer
