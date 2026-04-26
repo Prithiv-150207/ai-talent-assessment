@@ -11,13 +11,11 @@ I guided my teammates to finish the task,leadership
 I found a business opportunity,entrepreneurship
 I discovered a new market idea,entrepreneurship
 I planned a small startup idea,entrepreneurship
-answer,label
-"I analyze problems step by step",analytical
-"I enjoy working with numbers and logic",analytical
-"I create innovative ideas",creative
-"I design new solutions",creative
-"I lead teams and motivate people",leadership
-"I manage conflicts in teams",leadership
-"I want to start a startup",entrepreneurship
-"I identify market opportunities",entrepreneurship
-print(data.columns)
+I analyze problems step by step,analytical
+I enjoy working with numbers and logic,analytical
+I create innovative ideas,creative
+I design new solutions,creative
+I lead teams and motivate people,leadership
+I manage conflicts in teams,leadership
+I want to start a startup,entrepreneurship
+I identify market opportunities,entrepreneurship
